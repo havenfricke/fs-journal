@@ -35,7 +35,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-The current index position of the 'pineapple' is i = 2. The array by default starts at poistion 0.
+The current index position of the 'pineapple' is i = 2. An array by default starts at poistion 0 and goes up from there.
 
 ```
 **5.** With these two objects: 
@@ -87,7 +87,7 @@ Document object model - The first file access and rendered by the DOM is our ind
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-Our 9 data types include strings, numbers, boolean, null, undefined, symbols, bigint, object, and objects.
+Our 9 data types include strings, numbers, boolean, null, undefined, symbols, bigint, objects, and properties (which can also be objects).
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
