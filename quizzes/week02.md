@@ -59,8 +59,8 @@ if, else, else if, do while are conditionals.
 and example of such is:
 
 function isTrue(){
-if (pineapple == pineapple)
-console.log('true') { return }
+if (pineapple == pineapple) { return }
+console.log('true') 
 if (pineapple == apple)
 console.log('false')
 }
