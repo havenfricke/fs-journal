@@ -87,7 +87,7 @@ Document object model - The first file access and rendered by the DOM is our ind
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-Our 9 data types include strings, numbers, boolean, null, undefined, symbols, bigint, objects, and properties (which can also be objects).
+Our 9 data types include strings, numbers, boolean, null, undefined, symbols, bigint, objects, and typof.
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
