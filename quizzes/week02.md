@@ -55,9 +55,17 @@ console.log(you)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-function isTrue(thing){
-  return (thing ? 'true' : 'false')
+if, else, else if, do while are conditionals.
+and example of such is:
+
+function isTrue(){
+if (pineapple == pineapple)
+console.log('true') { return }
+if (pineapple == apple)
+console.log('false')
 }
+
+**This is techically two conditional statements in one function
 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
