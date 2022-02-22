@@ -58,7 +58,7 @@ Enables you to create an object that takes the place of an original object with 
 
 let proxy = new Proxy(target, handler)
 
-target - and object to wrap
+target - an object to wrap
 
 handler - object containing methods to control the behavior of the target. Methods inside of the handler are referred to as traps.
 
@@ -88,12 +88,12 @@ console.log(proxyUser.lastName);
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-To divide related logic into three elements that are interconnected. The overarching purpose of that is to separate concerns. Software components should do one thing under the single responsibility principle in solid. Model = business logic. Business logic goes in the models - business logic is what it sounds like. What the business the site is being created for is logically trying to present.
+To divide related logic into three elements that are interconnected. The overarching purpose of that is to separate concerns. Software components should do one thing under the single responsibility principle in solid. Model = business logic. Business logic goes in the models - business logic is what it sounds like. What the business has in mind for the site is being created logically to present information - models caputre this logic.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-The job of the controller in the mvc patter is to take information from the HTEML portion and via listener, send to the service.
+The job of the controller in the mvc pattern is to take information from the HTML portion and via listener, send to the service.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
