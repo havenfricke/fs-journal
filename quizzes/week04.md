@@ -63,6 +63,6 @@ Successful code response for HTTP are messages numbered 200-299.
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-A 500 error is an internal server error. The server encounters a situation in which it does not know how to handle.
+A 500 error is an internal server error. The server encounters a situation in which it does not know how to handle. 
 
 ```
