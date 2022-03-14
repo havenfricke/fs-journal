@@ -57,7 +57,7 @@ App.vue containes the root element. App.vue is the face of the DOM in vue.
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-:style, :
+:style, :scope
 
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
